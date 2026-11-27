@@ -1,3 +1,4 @@
 ce projet est un TP Git
 il s'agit ici du fichier notes.txt
 nous allons utiliser ce fichier pour le tp1
+écrit par REGONNE Spencer Christopher
